@@ -4,10 +4,10 @@ Primeiro trabalho prático em C++ do meu curso de Programação de Computadores 
 
 Para instalar e rodar o arquivo em seu programa, você deve possuir uma ide instalada em sua máquina (Visual Studio de preferência). 
 
-Passo 1: Acesse o branch Master do projeto;
-Passo 2: Faça o download da pasta do projeto;
-Passo 3: Abra a solução na sua IDE;
-Passo 4: Execute o código.
+Passo 1: Acesse o branch Master do projeto
+Passo 2: Faça o download da pasta do projeto
+Passo 3: Abra a solução na sua IDE
+Passo 4: Execute o código
 
 RESUMO DO PROJETO
 
